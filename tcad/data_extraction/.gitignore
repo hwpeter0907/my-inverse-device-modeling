@@ -1,0 +1,7 @@
+# Machine-local settings and generated simulation output
+configs/local_config.json
+.venv/
+venv/
+env/
+dataset/
+runs/
